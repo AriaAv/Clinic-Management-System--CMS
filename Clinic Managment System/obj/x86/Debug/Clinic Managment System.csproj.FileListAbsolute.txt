@@ -1,0 +1,66 @@
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.pdb
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmmain.resources
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.Properties.Resources.resources
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csproj.GenerateResource.Cache
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.exe
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.pdb
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csprojResolveAssemblyReference.cache
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmInsert.resources
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmInsertperson.resources
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmlogin.resources
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe.config
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\bin\Debug\clinic.mdf
+C:\Users\won32\Desktop\Clinic Managment System\Clinic Managment System\bin\Debug\clinic_log.ldf
+H:\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe.config
+H:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.exe
+H:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.pdb
+E:\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe.config
+E:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.exe
+E:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.pdb
+J:\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe.config
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.exe
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.pdb
+J:\Clinic Managment System\Clinic Managment System\bin\Debug\clinic.mdf
+J:\Clinic Managment System\Clinic Managment System\bin\Debug\clinic_log.ldf
+J:\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe
+J:\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.pdb
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csprojResolveAssemblyReference.cache
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmInsert.resources
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmInsertperson.resources
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmlogin.resources
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmmain.resources
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.Properties.Resources.resources
+J:\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csproj.GenerateResource.Cache
+K:\Kbi\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe.config
+K:\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.exe
+K:\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.pdb
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe.config
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.exe
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.pdb
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\bin\Debug\clinic.mdf
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\bin\Debug\clinic_log.ldf
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.pdb
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csprojResolveAssemblyReference.cache
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmInsert.resources
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmInsertperson.resources
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmlogin.resources
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmmain.resources
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.Properties.Resources.resources
+H:\Project CD\Kbi\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csproj.GenerateResource.Cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\bin\Debug\clinic.mdf
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\bin\Debug\clinic_log.ldf
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe.config
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.exe
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\bin\Debug\Clinic Managment System.pdb
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csprojResolveAssemblyReference.cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmInsert.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmInsertperson.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmlogin.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.frmmain.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic_Managment_System.Properties.Resources.resources
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csproj.GenerateResource.Cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.csproj.CoreCompileInputs.cache
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.exe
+C:\Users\ariae\Desktop\Files\School\GitHub\00\PROJECT\Clinic Managment System\Clinic Managment System\obj\x86\Debug\Clinic Managment System.pdb
